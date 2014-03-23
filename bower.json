@@ -1,0 +1,21 @@
+{
+  "name": "swad",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Swad/bower-swad",
+  "authors": [
+    "Swad <itzswad@gmail.com>"
+  ],
+  "description": "Bower for swad",
+  "keywords": [
+    "bower",
+    "swad"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
